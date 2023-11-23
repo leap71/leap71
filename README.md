@@ -1,15 +1,50 @@
-![07DECD18-8241-48A3-BA75-194610860440_1_105_c](https://github.com/leap71/leap71/assets/147378246/93fa9d55-37bf-4586-b34d-6e502e2aef64)
+# Welcome to LEAP 71's Github
 
-# Welcome to LEAP 71's Github repositories.
+![LEAP71](img/LEAP71.jpg)
 
 At [LEAP 71](https://leap71.com) we build complex technical objects using [Computational Engineering Models (CEM)](https://leap71.com/computationalengineering/). These models output parts, structures, and entire functional assemblies of machines, ready for production using advanced digital production technologies, such as industrial 3D Printing.
 
-We use our technology to build anything from [rocket engines](https://leap71.com/rp/) to energy efficient heat exchangers or electric motors.
+![2023-11-23 LEAP 71 GitHub](img/2023-11-23 LEAP 71 GitHub.jpg)
 
-We are committed to supporting a growing open-source community around Computational Engineering, and are releasing many of our foundational technologies and computational models to the public.
+We use our technology to build anything from [rocket engines](https://leap71.com/rp/) to energy efficient heat exchangers or electric motors
 
-**[PicoGK](https://github.com/leap71/PicoGK)** ("peacock") is a compact and robust geometry kernel for Computational Engineering Models written in C#. Its foundation **[PicoGKRuntime](https://github.com/leap71/PicoGKRuntime)** implements the base functionality in C++ and uses other open-source projects, such as [OpenVDB](https://github.com/AcademySoftwareFoundation/openvdb) and [GLFW](https://github.com/glfw/glfw) as foundation.
+We are committed to supporting a growing open-source community around Computational Engineering, and are in the process of releasing many of our foundational technologies and computational models to the public.
 
-The [LEAP 71 ShapeKernel](https://github.com/leap71/LEAP71_ShapeKernel) is a framework to build complex geometry on top of PicoGK. It provides the foundation for all of our computational models for engineering.
+## PicoGK
 
-For more information please browse the project pages and [visit our website.](https://leap71.com)
+At the core of all our work lies **[PicoGK](https://github.com/leap71/PicoGK)** ("peacock"), a compact and robust geometry kernel for Computational Engineering Models, which we have released under the permissive [Free and Open Source (FOSS) Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
+
+Computational Engineering benefits greatly from the free exchange of knowledge and algorithms. While much of LEAP 71's work is proprietary, we are constantly releasing foundational modules as open-source. 
+
+![2023-11-23 LEAP 71 GitHub 2](img/2023-11-23 LEAP 71 GitHub 2.jpg)
+
+At this time, the following repositories are available:
+
+- [**PicoGK**](https://github.com/leap71) — the C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com).
+- [**ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel) — A base framework for creating computational geometry, based on PicoGK.
+- [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) — One of the most advanced libraries for creating lattice structures, based on ShapeKernel and PicoGK.
+- [**PicoGKRuntime**](https://github.com/leap71/PicoGKRuntime) — the C++-based runtime module that PicoGK is based on, a thin layer on top of [OpenVDB](https://www.openvdb.org/) and [GLFW](https://www.glfw.org/).
+- [**PicoGKInstaller**](https://github.com/leap71/PicoGKInstaller) — Installer project for PicoGKRuntime
+
+## More information
+
+To understand the motivation behind PicoGK, check out this series of articles on the authors' personal website.
+
+- [Fundamentals of Computational Engineering — **Prologue**](https://jlk.ae/2023/10/04/computationalengineering-prologue/)
+
+- [Fundamentals of Computational Engineering — **Part 1: A bit of history**](https://jlk.ae/2023/10/06/computational-engineering-part-1-history/)
+
+- [Fundamentals of Computational Engineering — **Part 2: The technology**](https://jlk.ae/2023/10/09/computational-engineering-part-2-the-technology/)
+
+- [Fundamentals of Computational Engineering — **Part 3: Voxels to the rescue**](https://jlk.ae/2023/10/11/computational-engineering-part-3-voxels/)
+
+- [Fundamentals of Computational Engineering — **Part 4: Implicits**](https://jlk.ae/2023/10/13/fundamentals-of-computational-engineering-part-4-implicits/)
+
+- [Fundamentals of Computational Engineering — **Part 5: All you need is a few functions**](https://jlk.ae/2023/10/16/fundamentals-of-computational-engineering-part-5-all-you-need-is-a-few-functions/)
+
+  
+
+![2023-11-23 LEAP 71 GitHub 3](img/2023-11-23 LEAP 71 GitHub 3.jpg)
+
+For more examples of what you can do with PicoGK, [check out our Instagram.](https://www.instagram.com/leap.71/) and [visit the LEAP 71 website.](https://leap71.com/)
+
