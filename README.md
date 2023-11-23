@@ -20,7 +20,7 @@ Computational Engineering benefits greatly from the free exchange of knowledge a
 
 At this time, the following repositories are available:
 
-- [**PicoGK**](https://github.com/leap71) — the C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com).
+- [**PicoGK**](https://github.com/PicoGK) — the C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com).
 - [**ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel) — A base framework for creating computational geometry, based on PicoGK.
 - [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) — One of the most advanced libraries for creating lattice structures, based on ShapeKernel and PicoGK.
 - [**PicoGKRuntime**](https://github.com/leap71/PicoGKRuntime) — the C++-based runtime module that PicoGK is based on, a thin layer on top of [OpenVDB](https://www.openvdb.org/) and [GLFW](https://www.glfw.org/).
