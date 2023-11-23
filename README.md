@@ -4,7 +4,7 @@
 
 At [LEAP 71](https://leap71.com) we build complex technical objects using [Computational Engineering Models (CEM)](https://leap71.com/computationalengineering/). These models output parts, structures, and entire functional assemblies of machines, ready for production using advanced digital production technologies, such as industrial 3D Printing.
 
-![2023-11-23 LEAP 71 GitHub](img/2023-11-23 LEAP 71 GitHub.jpg)
+![2023-11-23 LEAP 71 GitHub](img/LEAP71_0.jpg)
 
 We use our technology to build anything from [rocket engines](https://leap71.com/rp/) to energy efficient heat exchangers or electric motors
 
@@ -16,7 +16,7 @@ At the core of all our work lies **[PicoGK](https://github.com/leap71/PicoGK)** 
 
 Computational Engineering benefits greatly from the free exchange of knowledge and algorithms. While much of LEAP 71's work is proprietary, we are constantly releasing foundational modules as open-source. 
 
-![2023-11-23 LEAP 71 GitHub 2](img/2023-11-23 LEAP 71 GitHub 2.jpg)
+![2023-11-23 LEAP 71 GitHub 2](img/LEAP71_2.jpg)
 
 At this time, the following repositories are available:
 
@@ -44,7 +44,7 @@ To understand the motivation behind PicoGK, check out this series of articles on
 
   
 
-![2023-11-23 LEAP 71 GitHub 3](img/2023-11-23 LEAP 71 GitHub 3.jpg)
+![2023-11-23 LEAP 71 GitHub 3](img/LEAP71_1.jpg)
 
 For more examples of what you can do with PicoGK, [check out our Instagram.](https://www.instagram.com/leap.71/) and [visit the LEAP 71 website.](https://leap71.com/)
 
