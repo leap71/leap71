@@ -24,6 +24,7 @@ At this time, the following repositories are available:
 
 - [**PicoGK**](https://github.com/leap71/PicoGK) — the C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com).
 - [**ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel) — A base framework for creating computational geometry, based on PicoGK.
+- [**Helix Heat Exchanger**](https://github.com/leap71/LEAP71_HelixHeatX) — An example how to build a heat exchanger using ShapeKernel and PicoGK.
 - [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) — One of the most advanced libraries for creating lattice structures, based on ShapeKernel and PicoGK.
 - [**PicoGKRuntime**](https://github.com/leap71/PicoGKRuntime) — Source code for the C++-based runtime module that PicoGK is based on, a thin layer on top of [OpenVDB](https://www.openvdb.org/) and [GLFW](https://www.glfw.org/).
 - [**PicoGKInstaller**](https://github.com/leap71/PicoGKInstaller) — Source code for the PicoGK installers ([if you are looking for the installers, download them here](https://github.com/leap71/PicoGK/releases/tag/PicoGK-v1.1.0))
@@ -43,6 +44,10 @@ To understand the motivation behind PicoGK, check out this series of articles on
 - [Fundamentals of Computational Engineering — **Part 4: Implicits**](https://jlk.ae/2023/10/13/fundamentals-of-computational-engineering-part-4-implicits/)
 
 - [Fundamentals of Computational Engineering — **Part 5: All you need is a few functions**](https://jlk.ae/2023/10/16/fundamentals-of-computational-engineering-part-5-all-you-need-is-a-few-functions/)
+
+- [LEAP 71 Shape Kernel — **Tutorial 1: Getting started with the Shape Kernel**](https://github.com/leap71/LEAP71_ShapeKernel/blob/main/Documentation/README-GettingStarted.md)
+
+- [LEAP 71 Shape Kernel — **Tutorial 2: Designing a computational heat exchanger**](https://github.com/leap71/LEAP71_HelixHeatX)
 
   
 
