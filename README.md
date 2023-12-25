@@ -14,7 +14,7 @@ We are committed to supporting a growing open-source community around Computatio
 
 At the core of all our work lies **[PicoGK](https://github.com/leap71/PicoGK)** ("peacock"), a compact and robust geometry kernel for Computational Engineering Models, which we have released under the permissive [Free and Open Source (FOSS) Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0).
 
-**[To get started with PicoGK, check out the documentaion.](https://github.com/leap71/PicoGK/tree/main/Documentation)**
+**[To get started with PicoGK, check out the documentation.](https://github.com/leap71/PicoGK/tree/main/Documentation)**
 
 Computational Engineering benefits greatly from the free exchange of knowledge and algorithms. While much of LEAP 71's work is proprietary, we are constantly releasing foundational modules as open-source. 
 
@@ -45,7 +45,7 @@ To understand the motivation behind PicoGK, check out this series of articles on
 
 - [Fundamentals of Computational Engineering — **Part 5: All you need is a few functions**](https://jlk.ae/2023/10/16/fundamentals-of-computational-engineering-part-5-all-you-need-is-a-few-functions/)
 
-- [LEAP 71 Shape Kernel — **Tutorial 1: Getting started with the Shape Kernel**](https://github.com/leap71/LEAP71_ShapeKernel/blob/main/Documentation/README-GettingStarted.md)
+- [LEAP 71 Shape Kernel — **Tutorial 1: Getting started with the ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel/blob/main/Documentation/README-GettingStarted.md)
 
 - [LEAP 71 Shape Kernel — **Tutorial 2: Designing a computational heat exchanger**](https://github.com/leap71/LEAP71_HelixHeatX)
 
