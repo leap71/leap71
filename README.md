@@ -25,7 +25,9 @@ At this time, the following repositories are available:
 - [**PicoGK**](https://github.com/leap71/PicoGK) — the C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com).
 - [**ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel) — A base framework for creating computational geometry, based on PicoGK.
 - [**Helix Heat Exchanger**](https://github.com/leap71/LEAP71_HelixHeatX) — An example how to build a heat exchanger using ShapeKernel and PicoGK.
+- **[Rover Wheel](https://github.com/leap71/LEAP71_RoverWheel)** — An example how to build rover-wheel-like objects using ShapeKernel and PicoGK 
 - [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) — One of the most advanced libraries for creating lattice structures, based on ShapeKernel and PicoGK.
+
 - [**PicoGKRuntime**](https://github.com/leap71/PicoGKRuntime) — Source code for the C++-based runtime module that PicoGK is based on, a thin layer on top of [OpenVDB](https://www.openvdb.org/) and [GLFW](https://www.glfw.org/).
 - [**PicoGKInstaller**](https://github.com/leap71/PicoGKInstaller) — Source code for the PicoGK installers ([if you are looking for the installers, download them here](https://github.com/leap71/PicoGK/releases/))
 
