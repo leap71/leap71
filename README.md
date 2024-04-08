@@ -33,6 +33,7 @@ Use these libraries as submodules in your own Computational Engineering projects
 | ![PicoGK_200px](img/PicoGK_200px.png)                  | [**PicoGK**](https://github.com/leap71/PicoGK)               | The C#-based geometry foundation for all of our work at [LEAP 71](https://leap71.com) |
 | ![ShapeKernel_200px](img/ShapeKernel_200px.jpeg)       | [**ShapeKernel**](https://github.com/leap71/LEAP71_ShapeKernel) | A generalized framework for creating computational geometry, based on PicoGK. |
 | ![LatticeLibrary_200px](img/LatticeLibrary_200px.jpeg) | [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) | An advanced library for creating complex lattice structures, based on ShapeKernel and PicoGK. |
+| ![QuasiCrystal_200px](img/QuasiCrystal_200px.jpg)      | **[QuasiCrystals](https://github.com/leap71/LEAP71_QuasiCrystals)** | A library to genrated aperiodic tilings, such as [Penrose Patterns](https://en.wikipedia.org/wiki/Penrose_tiling) (in 2D) and [quasi-crystalline structures](https://en.wikipedia.org/wiki/Quasicrystal) (in 3D). |
 
 #### **Example Projects** 
 
@@ -42,7 +43,6 @@ Check out these example projects to see how to build objects in PicoGK.
 | ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![HelixHeatX_200px](img/HelixHeatX_200px.jpeg) | [**Helix Heat Exchanger**](https://github.com/leap71/LEAP71_HelixHeatX) | An example how to build a heat exchanger using ShapeKernel and PicoGK |
 | ![RoverWheel_200px](img/RoverWheel_200px.jpeg) | **[Rover Wheel](https://github.com/leap71/LEAP71_RoverWheel)** | An example how to build rover-wheel-like objects using ShapeKernel and PicoGK |
-|                                                |                                                              |                                                              |
 
 #### Under the hood
 
