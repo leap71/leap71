@@ -1,4 +1,4 @@
-# Welcome to the LEAP 71 Github
+# Welcome to the LEAP 71 GitHub
 
 ![LEAP71](img/LEAP71.jpg)
 
@@ -12,15 +12,16 @@ We use our technology to build anything from [rocket engines](https://leap71.com
 
 We are committed to supporting a growing open-source community around Computational Engineering, and are in the process of releasing many of our foundational technologies and computational models to the public.
 
-|                                       | Resources                                                    |
+# Resources
+
+|                                       |                                                              |
 | ------------------------------------- | ------------------------------------------------------------ |
 | ![PicoGK_200px](img/PicoGK_200px.png) | **PicoGK** ("peacock") is the open source foundation of all of our work at LEAP 71. [Get started with PicoGK here.](https://github.com/leap71/PicoGK/tree/main/Documentation) |
 | ![Coding](img/Coding.jpg)             | **Coding for engineers** [is an ongoing book project about learning how to code](https://picogk.org/coding-for-engineers/) on PicoGK, which is released chapter by chapter by Lin Kayser. |
 | ![jlk](img/jlk.jpg)                   | [**Check out our GitHub Discussions**](https://github.com/leap71/PicoGK/discussions), to talk about Computational Engineering, PicoGK, give feedback, ask questions, and see what others are doing, |
 | ![PicoGK.org](img/PicoGK.org.jpg)     | Visit **[PicoGK.org](https://picogk.org)** for more resources. |
 
-
-## PicoGK
+# PicoGK
 
 ![2023-11-23 LEAP 71 GitHub 2](img/LEAP71_2.jpg)
 
@@ -32,7 +33,7 @@ Computational Engineering benefits greatly from the free exchange of knowledge a
 
 At this time, the following repositories are available:
 
-#### **Base Libraries** 
+# Base Libraries 
 
 Use these libraries as submodules in your own Computational Engineering projects.
 
@@ -43,7 +44,7 @@ Use these libraries as submodules in your own Computational Engineering projects
 | ![LatticeLibrary_200px](img/LatticeLibrary_200px.jpeg) | [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) | An advanced library for creating complex lattice structures, based on ShapeKernel and PicoGK. |
 | ![QuasiCrystal_200px](img/QuasiCrystal_200px.jpg)      | **[QuasiCrystals](https://github.com/leap71/LEAP71_QuasiCrystals)** | A library to generate aperiodic tilings, such as [Penrose Patterns](https://en.wikipedia.org/wiki/Penrose_tiling) (in 2D) and [quasi-crystalline structures](https://en.wikipedia.org/wiki/Quasicrystal) (in 3D). |
 
-#### **Example Projects** 
+# Example Projects 
 
 Check out these example projects to see how to build objects in PicoGK.
 
@@ -52,7 +53,7 @@ Check out these example projects to see how to build objects in PicoGK.
 | ![HelixHeatX_200px](img/HelixHeatX_200px.jpeg) | [**Helix Heat Exchanger**](https://github.com/leap71/LEAP71_HelixHeatX) | An example how to build a heat exchanger using ShapeKernel and PicoGK |
 | ![RoverWheel_200px](img/RoverWheel_200px.jpeg) | **[Rover Wheel](https://github.com/leap71/LEAP71_RoverWheel)** | An example how to build rover-wheel-like objects using ShapeKernel and PicoGK |
 
-#### Under the hood
+# Under the hood
 
 If you want to compile your own version of the PicoGK runtime and build custom installers, here's the source code. 
 
@@ -69,7 +70,7 @@ You are usually not interested in these repositories as an end user of PicoGK.
 > If you are looking for the PicoGK installers, [download them here](https://github.com/leap71/PicoGK/releases/).
 
 
-## More information
+# More information
 
 To understand the motivation behind PicoGK, check out this series of articles on the authors' personal website.
 
