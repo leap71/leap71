@@ -33,7 +33,7 @@ Computational Engineering benefits greatly from the free exchange of knowledge a
 
 At this time, the following repositories are available:
 
-# Base Libraries 
+# Base libraries 
 
 Use these libraries as submodules in your own Computational Engineering projects.
 
@@ -44,7 +44,7 @@ Use these libraries as submodules in your own Computational Engineering projects
 | ![LatticeLibrary_200px](img/LatticeLibrary_200px.jpeg) | [**LatticeLibrary**](https://github.com/leap71/LEAP71_LatticeLibrary) | An advanced library for creating complex lattice structures, based on ShapeKernel and PicoGK. |
 | ![QuasiCrystal_200px](img/QuasiCrystal_200px.jpg)      | **[QuasiCrystals](https://github.com/leap71/LEAP71_QuasiCrystals)** | A library to generate aperiodic tilings, such as [Penrose Patterns](https://en.wikipedia.org/wiki/Penrose_tiling) (in 2D) and [quasi-crystalline structures](https://en.wikipedia.org/wiki/Quasicrystal) (in 3D). |
 
-# Example Projects 
+# Example projects 
 
 Check out these example projects to see how to build objects in PicoGK.
 
