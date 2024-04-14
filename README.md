@@ -12,6 +12,14 @@ We use our technology to build anything from [rocket engines](https://leap71.com
 
 We are committed to supporting a growing open-source community around Computational Engineering, and are in the process of releasing many of our foundational technologies and computational models to the public.
 
+|                                       | Resources                                                    |
+| ------------------------------------- | ------------------------------------------------------------ |
+| ![PicoGK_200px](img/PicoGK_200px.png) | **PicoGK** ("peacock") is the open source foundation of all of our work at LEAP 71. [Get started with PicoGK here.](https://github.com/leap71/PicoGK/tree/main/Documentation) |
+| ![Coding](img/Coding.jpg)             | **Coding for engineers** [is an ongoing book project about learning how to code](https://picogk.org/coding-for-engineers/) on PicoGK, which is released chapter by chapter by Lin Kayser. |
+| ![jlk](img/jlk.jpg)                   | [**Check out our GitHub Discussions**](https://github.com/leap71/PicoGK/discussions), to talk about Computational Engineering, PicoGK, give feedback, ask questions, and see what others are doing, |
+| ![PicoGK.org](img/PicoGK.org.jpg)     | Visit **[PicoGK.org](https://picogk.org)** for more resources. |
+
+
 ## PicoGK
 
 ![2023-11-23 LEAP 71 GitHub 2](img/LEAP71_2.jpg)
